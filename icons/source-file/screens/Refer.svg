@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="585px" viewBox="0 0 360 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Refer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="74.0366343%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#292A2C" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0.998315043" width="360" height="61"></rect>
+        <filter x="-1.9%" y="-8.2%" width="103.9%" height="123.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FEF2BF" offset="0%"></stop>
+            <stop stop-color="#D5A842" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-5" font-family="Avenir-Heavy, Avenir" font-size="15" font-weight="600" fill="#000000">
+            <tspan x="112.8725" y="311">Refer on Whatsapp</tspan>
+        </text>
+        <filter x="-1.2%" y="-5.0%" width="102.4%" height="120.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.294662369 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Refer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="360" height="585"></rect>
+        <g id="Menu-2" transform="translate(0.000000, -2.000000)">
+            <rect id="Rectangle-Copy" fill="url(#linearGradient-1)" x="0" y="5" width="360" height="586"></rect>
+            <g id="Header">
+                <g id="status-bar">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#333333" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Material/Android/Status-bar-content-light" transform="translate(271.000000, 2.598909)">
+                        <g id="time" opacity="0.9" transform="translate(54.000000, 2.000000)" fill="#FFFFFF" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400">
+                            <text id="12:30">
+                                <tspan x="0.0756835938" y="10">12:30</tspan>
+                            </text>
+                        </g>
+                        <g id="battery" transform="translate(38.000000, 3.000000)">
+                            <polygon id="bounds" points="0 0 11 0 11 11 0 11"></polygon>
+                            <polygon id="Shape" fill="#FFFFFF" points="6.1875 1.2890625 6.1875 0.6875 4.125 0.6875 4.125 1.2890625 2.0625 1.2890625 2.0625 10.3125 8.25 10.3125 8.25 1.2890625"></polygon>
+                        </g>
+                        <g id="cellular" transform="translate(23.000000, 3.000000)">
+                            <polygon id="bounds" points="0 0 11 0 11 11 0 11"></polygon>
+                            <polygon id="Shape" fill="#FFFFFF" points="0 10.3125 9.625 10.3125 9.625 0.6875"></polygon>
+                        </g>
+                        <g id="wifi" transform="translate(5.000000, 3.000000)">
+                            <polygon id="bounds" points="1.4 0 12.6 0 12.6 11 1.4 11"></polygon>
+                            <path d="M0.68416046,2.76095272 C2.44175336,1.45926262 4.62911059,0.6875 7,0.6875 C9.37088941,0.6875 11.5582466,1.45926262 13.3158395,2.76095272 L7,10.3125 L0.68416046,2.76095272 Z" id="Shape" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect id="Rectangle-Copy" fill="#333333" x="0" y="72" width="360" height="58"></rect>
+        <rect id="Rectangle-Copy-2" fill="#333333" x="-1" y="144" width="360" height="110"></rect>
+        <g id="Material/Icons-black/chevron-right" transform="translate(331.000000, 89.000000)" fill="#FFFFFF">
+            <polygon id="Shape" points="8.59997559 7.4 9.99997559 6 15.9999756 12 9.99997559 18 8.59997559 16.6 13.1999756 12"></polygon>
+        </g>
+        <g id="rupee-indian" transform="translate(284.000000, 95.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M7.60059701,2.71868657 C7.54952239,2.66755224 7.48414925,2.64202985 7.40468657,2.64202985 L5.94737313,2.64202985 C5.85071642,2.17059701 5.66889552,1.76137313 5.4018806,1.41480597 L7.38755224,1.41480597 C7.46722388,1.41480597 7.53241791,1.38925373 7.58367164,1.33823881 C7.63453731,1.28713433 7.66008955,1.22173134 7.66008955,1.14220896 L7.66008955,0.272716418 C7.66008955,0.193134328 7.63456716,0.127850746 7.58367164,0.0766865672 C7.53235821,0.025641791 7.46716418,0 7.38749254,0 L0.296746269,0 C0.217164179,0 0.151880597,0.025641791 0.100716418,0.0766567164 C0.0497014925,0.127820896 0.0240597015,0.193104478 0.0240597015,0.272686567 L0.0240597015,1.4061791 C0.0240597015,1.48002985 0.0510447761,1.5439403 0.105014925,1.59791045 C0.158985075,1.6518806 0.222895522,1.67886567 0.296746269,1.67886567 L1.53253731,1.67886567 C2.73131343,1.67886567 3.49268657,1.99979104 3.81650746,2.6418806 L0.296746269,2.6418806 C0.217164179,2.6418806 0.151791045,2.66740299 0.100716418,2.71853731 C0.0497014925,2.76973134 0.0240597015,2.83498507 0.0240597015,2.91456716 L0.0240597015,3.7839403 C0.0240597015,3.86346269 0.0495820896,3.92883582 0.100716418,3.97985075 C0.151880597,4.03104478 0.217283582,4.05650746 0.296746269,4.05650746 L3.936,4.05650746 C3.81098507,4.52253731 3.51976119,4.87758209 3.06232836,5.12191045 C2.60486567,5.36626866 2.00131343,5.48844776 1.25128358,5.48844776 L0.296746269,5.48844776 C0.222895522,5.48844776 0.158985075,5.51546269 0.105014925,5.56940299 C0.0510149254,5.62340299 0.0240597015,5.68734328 0.0240597015,5.76113433 L0.0240597015,6.84361194 C0.0240597015,6.91758209 0.0495820896,6.9800597 0.100716418,7.03113433 C1.19155224,8.1901791 2.60635821,9.8121791 4.34495522,11.8975522 C4.39614925,11.965791 4.46713433,11.9998209 4.5580597,11.9998209 L6.21991045,11.9998209 C6.33934328,11.9998209 6.42179104,11.9488358 6.46710448,11.8463582 C6.52391045,11.7440896 6.51277612,11.6474925 6.43298507,11.5565672 C4.7741194,9.52244776 3.4700597,7.99976119 2.52119403,6.98844776 C3.48710448,6.87483582 4.27119403,6.56226866 4.87349254,6.05101493 C5.47570149,5.53970149 5.8421194,4.87480597 5.97289552,4.05665672 L7.40468657,4.05665672 C7.48414925,4.05665672 7.54955224,4.03116418 7.60059701,3.98 C7.65179104,3.92898507 7.67740299,3.86361194 7.67740299,3.78408955 L7.67740299,2.91480597 C7.67740299,2.83513433 7.65179104,2.76985075 7.60059701,2.71868657 Z" id="Path"></path>
+        </g>
+        <text id="1000" font-family="Avenir-Black, Avenir" font-size="14" font-weight="700" fill="#FFFFFF">
+            <tspan x="294.848" y="106">1000</tspan>
+        </text>
+        <g id="left-arrow" transform="translate(14.000000, 26.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M21.9508819,8.05990909 L0.924020979,8.05990909 C0.413714064,8.05990909 0,8.48081818 0,9 C0,9.51922727 0.413714064,9.94009091 0.924020979,9.94009091 L21.9508819,9.94009091 C22.4612335,9.94009091 22.8749029,9.51922727 22.8749029,9 C22.8749029,8.48081818 22.4612335,8.05990909 21.9508819,8.05990909 Z" id="Path"></path>
+            <path d="M2.23083916,9 L9.46248057,1.64254545 C9.8233411,1.27540909 9.8233411,0.680181818 9.46248057,0.313045455 C9.10162005,-0.0540454545 8.5165676,-0.0540454545 8.15570707,0.313045455 L0.270656566,8.33522727 C-0.0902039627,8.70236364 -0.0902039627,9.29759091 0.270656566,9.66472727 L8.15570707,17.6869091 C8.336115,17.8705 8.57263792,17.9622727 8.80911616,17.9622727 C9.04559441,17.9622727 9.28211733,17.8705 9.46252525,17.6869091 C9.82338578,17.3197727 9.82338578,16.7245455 9.46252525,16.3574091 L2.23083916,9 Z" id="Path"></path>
+        </g>
+        <text id="Refer-to-Friends" font-family="Avenir-Medium, Avenir" font-size="15" font-weight="400" fill="#FFFFFF">
+            <tspan x="47" y="39">Refer to Friends</tspan>
+        </text>
+        <text id="Your-total-referral" font-family="Avenir-Book, Avenir" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="14" y="106">Your total referral earnings</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#979797" x="14.5" y="169.5" width="328" height="60" rx="6"></rect>
+        <text id="CAP08B6" font-family="Avenir-Medium, Avenir" font-size="14" font-weight="400" fill="#FFFFFF">
+            <tspan x="26.814" y="218">CAP08B6</tspan>
+        </text>
+        <text id="Your-Referral-Code" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" fill="#FFFFFF">
+            <tspan x="26.709" y="195">Your Referral Code</tspan>
+        </text>
+        <text id="SHARE" font-family="Avenir-Heavy, Avenir" font-size="13" font-weight="600" fill="#D39B51">
+            <tspan x="288.386" y="204">SHARE</tspan>
+        </text>
+        <rect id="Rectangle" fill="url(#linearGradient-4)" x="73" y="287" width="215" height="37" rx="5"></rect>
+        <g id="Refer-on-Whatsapp" fill="#000000" fill-opacity="1">
+            <use filter="url(#filter-6)" xlink:href="#text-5"></use>
+            <use xlink:href="#text-5"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="585px" viewBox="0 0 360 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Reach us</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="74.0366343%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#292A2C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FEF2BF" offset="0%"></stop>
+            <stop stop-color="#D5A842" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-3" font-family="Avenir-Heavy, Avenir" font-size="15" font-weight="600" fill="#000000">
+            <tspan x="155.7725" y="541">Submit</tspan>
+        </text>
+        <filter x="-1.2%" y="-5.0%" width="102.4%" height="120.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.294662369 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Reach-us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="360" height="585"></rect>
+        <rect id="Rectangle-Copy" fill="url(#linearGradient-1)" x="0" y="0" width="360" height="586"></rect>
+        <rect id="Rectangle-Copy" fill="#333333" x="0" y="61" width="360" height="411"></rect>
+        <g id="component/input" transform="translate(14.000000, 236.000000)">
+            <g id="Group">
+                <text id="Email" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                    <tspan x="1" y="13">Email</tspan>
+                </text>
+                <path d="M0,25 L330.5,25" id="Line-4" stroke-opacity="0.267045455" stroke="#979797" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <g id="component/input" transform="translate(14.000000, 317.000000)">
+            <g id="Group">
+                <text id="Email" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                    <tspan x="1" y="13">Phone No.</tspan>
+                </text>
+                <path d="M0,25 L330.5,25" id="Line-4" stroke-opacity="0.267045455" stroke="#979797" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <text id="Mr." font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+            <tspan x="17" y="176">Mr.</tspan>
+        </text>
+        <text id="Name" font-family="Avenir-Book, Avenir" font-size="13" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+            <tspan x="93" y="176">Name</tspan>
+        </text>
+        <path d="M16,189 L73,189" id="Line-4-Copy-2" stroke-opacity="0.267045455" stroke="#979797" stroke-linecap="square"></path>
+        <path d="M92,189 L345,189" id="Line-4-Copy-3" stroke-opacity="0.267045455" stroke="#979797" stroke-linecap="square"></path>
+        <g id="Header" transform="translate(271.000000, -2.000000)">
+            <g id="status-bar">
+                <g id="Material/Android/Status-bar-content-light" transform="translate(0.000000, 0.598909)">
+                    <g id="time" opacity="0.9" transform="translate(54.000000, 2.000000)" fill="#FFFFFF" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400">
+                        <text id="12:30">
+                            <tspan x="0.0756835938" y="10">12:30</tspan>
+                        </text>
+                    </g>
+                    <g id="battery" transform="translate(38.000000, 3.000000)">
+                        <polygon id="bounds" points="0 0 11 0 11 11 0 11"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="6.1875 1.2890625 6.1875 0.6875 4.125 0.6875 4.125 1.2890625 2.0625 1.2890625 2.0625 10.3125 8.25 10.3125 8.25 1.2890625"></polygon>
+                    </g>
+                    <g id="cellular" transform="translate(23.000000, 3.000000)">
+                        <polygon id="bounds" points="0 0 11 0 11 11 0 11"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0 10.3125 9.625 10.3125 9.625 0.6875"></polygon>
+                    </g>
+                    <g id="wifi" transform="translate(5.000000, 3.000000)">
+                        <polygon id="bounds" points="1.4 0 12.6 0 12.6 11 1.4 11"></polygon>
+                        <path d="M0.68416046,2.76095272 C2.44175336,1.45926262 4.62911059,0.6875 7,0.6875 C9.37088941,0.6875 11.5582466,1.45926262 13.3158395,2.76095272 L7,10.3125 L0.68416046,2.76095272 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="left-arrow" transform="translate(14.000000, 23.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M21.9508819,8.05990909 L0.924020979,8.05990909 C0.413714064,8.05990909 0,8.48081818 0,9 C0,9.51922727 0.413714064,9.94009091 0.924020979,9.94009091 L21.9508819,9.94009091 C22.4612335,9.94009091 22.8749029,9.51922727 22.8749029,9 C22.8749029,8.48081818 22.4612335,8.05990909 21.9508819,8.05990909 Z" id="Path"></path>
+            <path d="M2.23083916,9 L9.46248057,1.64254545 C9.8233411,1.27540909 9.8233411,0.680181818 9.46248057,0.313045455 C9.10162005,-0.0540454545 8.5165676,-0.0540454545 8.15570707,0.313045455 L0.270656566,8.33522727 C-0.0902039627,8.70236364 -0.0902039627,9.29759091 0.270656566,9.66472727 L8.15570707,17.6869091 C8.336115,17.8705 8.57263792,17.9622727 8.80911616,17.9622727 C9.04559441,17.9622727 9.28211733,17.8705 9.46252525,17.6869091 C9.82338578,17.3197727 9.82338578,16.7245455 9.46252525,16.3574091 L2.23083916,9 Z" id="Path"></path>
+        </g>
+        <text id="Contact-us" font-family="Avenir-Medium, Avenir" font-size="15" font-weight="400" fill="#FFFFFF">
+            <tspan x="47" y="36">Contact us</tspan>
+        </text>
+        <text id="This-is-with-invitat" font-family="Avenir-Medium, Avenir" font-size="15" font-weight="400" fill="#D39B51">
+            <tspan x="15" y="93">This is with invitation only kindly fill the info and </tspan>
+            <tspan x="15" y="113">Xclusify will contact you</tspan>
+        </text>
+        <polygon id="Triangle" fill="#FFFFFF" transform="translate(63.900000, 175.500000) scale(1, -1) translate(-63.900000, -175.500000) " points="63.9 172 68.8 179 59 179"></polygon>
+        <rect id="Rectangle" fill="url(#linearGradient-2)" x="73" y="517" width="215" height="37" rx="5"></rect>
+        <g id="Submit" fill="#000000" fill-opacity="1">
+            <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+            <use xlink:href="#text-3"></use>
+        </g>
+    </g>
+</svg>
